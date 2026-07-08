@@ -1,6 +1,9 @@
+
 # 🎰 CHUNKY ROULETTE 9000
 
 A lightweight, zero-dependency, step-by-step build randomizer for **The Finals** contestants. Written in pure Rust. Lose your sweat, embrace the pure chaotic fun!
+
+<img width="400" height="400" alt="HEAVY" src="https://github.com/user-attachments/assets/d26f6977-bf72-468f-ae02-a41066d5e4d7" />
 
 ## 🚀 Compilation & Running Guide
 
