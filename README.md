@@ -30,19 +30,5 @@ Run the created `.exe` file:
 ```
 *(Note: A built-in EOF latch is included so the terminal window won't vanish instantly after generation!)*
 
-#### Method B: Cross-compiling from Linux to Windows (MinGW)
-If you prefer to bake the `.exe` directly from your Arch Linux system:
-1. Install the cross-compilation tools:
-   ```bash
-   sudo pacman -S mingw-w64-gcc
-   rustup target add x86_64-pc-windows-gnu
-   ```
-2. Build the target executable:
-   ```bash
-   rustc --target x86_64-pc-windows-gnu HeavyRand_EN_.rs
-   ```
-Your standalone `HeavyRand_EN_.exe` is ready to be transferred to any Windows machine.
-
----
 ## 🎮 Gameplay Verdict
 Remember: If you roll a *Sledgehammer* as *Kool-Aid Man* with zero shields — it's not a bad build, it's a test of your inner dominance. See you in the Arena!
