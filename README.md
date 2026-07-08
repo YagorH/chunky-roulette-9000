@@ -35,6 +35,8 @@ To execute the generated binary, simply run:
 ./HeavyRand_EN_
 ```
 
+---
+
 ### 🪟 On Windows (CMD / PowerShell)
 
 Open your PowerShell or Command Prompt inside the project directory and build the executable:
