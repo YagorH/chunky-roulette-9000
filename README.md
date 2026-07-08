@@ -2,15 +2,6 @@
 
 A lightweight, zero-dependency, step-by-step build randomizer for **The Finals** contestants. Written in pure Rust. Lose your sweat, embrace the pure chaotic fun!
 
-## ✨ Features
-* **Zero Dependencies:** No external crates used. Pure, raw standard library execution.
-* **Anti-Duplicate Safety:** Dynamic vector management via custom RNG prevents rolled gadgets from repeating.
-* **Step-by-Step Intrigue:** Delivers build pieces one-by-one upon hitting Enter for maximum tactical suspense.
-* **Informative Stats:** Outputs weapon details including damage, range, and spread.
-* **Pure Meme Injection:** Imbued with gaming community inside jokes.
-
----
-
 ## 🚀 Compilation & Running Guide
 
 Ensure you have the Rust toolchain installed. If not, get it from [rustup.rs](https://rustup.rs).
