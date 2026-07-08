@@ -5,6 +5,14 @@ A lightweight, zero-dependency, step-by-step build randomizer for **The Finals**
 
 <img width="400" height="400" alt="HEAVY" src="https://github.com/user-attachments/assets/d26f6977-bf72-468f-ae02-a41066d5e4d7" />
 
+### ⚡ Quick Start (No Compilation Required)
+If you just want to play the game and don't want to mess with compilers and code, we've got you covered!
+1. Go to the **[Releases](https://github.com)** section on the right side of this page.
+2. Download the latest standalone executable for your OS (`.exe` for Windows, binary for Linux).
+3. Run it instantly and enjoy your random loadout!
+
+---
+
 ## 🚀 Compilation & Running Guide
 
 Ensure you have the Rust toolchain installed. If not, get it from [rustup.rs](https://rustup.rs).
@@ -27,7 +35,6 @@ To execute the generated binary, simply run:
 
 ### 🪟 On Windows (CMD / PowerShell)
 
-#### Method A: Compiling natively on Windows
 Open your PowerShell or Command Prompt inside the project directory and build the executable:
 ```powershell
 rustc HeavyRand_EN_.rs
