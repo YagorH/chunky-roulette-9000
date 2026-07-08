@@ -15,6 +15,11 @@ Open your terminal in the repository folder and compile the binary:
 ```bash
 rustc HeavyRand_EN_.rs
 ```
+Give the compiled binary execution permissions:
+```bash
+chmod +x HeavyRand_EN_
+```
+
 To execute the generated binary, simply run:
 ```bash
 ./HeavyRand_EN_
